@@ -1,7 +1,4 @@
-# Minimal-Transformer-from-scratch-
-好的，这是您可以直接复制并粘贴到 `README.md` 文件中的 Markdown 版本。
 
------
 
 # Minimal Transformer (from-scratch) — README
 
